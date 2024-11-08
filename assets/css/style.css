@@ -10,6 +10,9 @@ body{
 .educacion{
     background-color: #f2f2f2;
 }
+.educacion__card{
+    min-height: 120px;
+}
 @media only screen and (max-width: 768px){
     .avatar{
         width: 220px;
